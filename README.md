@@ -1,7 +1,7 @@
 # GSOC Test Project
 
 Hi 👋  
-My name is **Harsh Khan**.
+My name is **Harsh Khem**.
 
 This repository is created for learning and experimenting with GitHub Codespaces and open-source workflows.
 
@@ -15,4 +15,10 @@ This repository is created for learning and experimenting with GitHub Codespaces
 - GitHub Codespaces
 
 ## Author
-Harsh Khan
+Harsh Khem
+## Contribution
+
+Contributions are welcome!  
+Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file before contributing.
+
+
